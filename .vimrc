@@ -28,7 +28,8 @@ call plug#begin(expand('~/.vim/plugged'))
 "" Plug install packages
 "*****************************************************************************
 
-Plug 'valloric/youcompleteme'
+"Plug 'valloric/youcompleteme'
+Plug 'phenomenes/ansible-snippets'
 Plug 'scrooloose/syntastic'
 Plug 'pearofducks/ansible-vim'
 Plug 'scrooloose/nerdtree'
